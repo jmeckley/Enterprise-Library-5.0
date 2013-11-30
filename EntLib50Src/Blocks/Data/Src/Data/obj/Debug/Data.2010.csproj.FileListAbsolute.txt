@@ -1,0 +1,10 @@
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Manageability.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Oracle.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Data.2010.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Data.2010.csprojResolveAssemblyReference.cache

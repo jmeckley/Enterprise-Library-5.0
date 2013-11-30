@@ -1,0 +1,9 @@
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Configuration.Manageability.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\ExceptionHandling.2010.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\ExceptionHandling.2010.csprojResolveAssemblyReference.cache

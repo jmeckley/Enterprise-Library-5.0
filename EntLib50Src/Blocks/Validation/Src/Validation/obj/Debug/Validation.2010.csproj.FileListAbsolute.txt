@@ -1,0 +1,8 @@
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation\obj\Debug\Validation.2010.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation\obj\Debug\Validation.2010.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb

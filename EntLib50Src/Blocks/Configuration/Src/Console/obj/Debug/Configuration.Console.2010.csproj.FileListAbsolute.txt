@@ -1,0 +1,14 @@
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Desktop.profile
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\EntLibConfig.exe.config
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\EntLibConfig.exe
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\EntLibConfig.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Configuration.Console.2010.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Shell.baml
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Shell.g.cs
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\App.g.cs
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig_MarkupCompile.cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.g.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Console.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Configuration.Console.2010.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.exe
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.pdb

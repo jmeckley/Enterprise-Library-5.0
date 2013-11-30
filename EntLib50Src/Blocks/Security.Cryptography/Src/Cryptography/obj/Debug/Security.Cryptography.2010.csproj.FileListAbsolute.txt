@@ -1,0 +1,9 @@
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Security.Cryptography.2010.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.Configuration.Manageability.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.Properties.Resources.resources
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Security.Cryptography.2010.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security.Cryptography\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
