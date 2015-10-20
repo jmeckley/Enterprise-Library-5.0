@@ -10,14 +10,8 @@
 //===============================================================================
 
 using System;
-using System.Collections.Generic;
-using System.Linq.Expressions;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ContainerModel;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Design;
-using Microsoft.Practices.EnterpriseLibrary.Common.Instrumentation.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Security.Instrumentation;
-using Microsoft.Practices.EnterpriseLibrary.Security.Properties;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Configuration
 {
@@ -42,57 +36,6 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security.Configuration
         public AuthorizationProviderData(string name, Type type)
             : base(name, type)
         {
-        }
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <returns></returns>
-        public virtual IEnumerable<TypeRegistration> GetRegistrations(IConfigurationSource configurationSource)
-        {
-            Expression<Func<IAuthorizationProvider>> newExpression = GetCreationExpression();
-
-            yield return new TypeRegistration<IAuthorizationProvider>(newExpression)
-            {
-                Name = this.Name
-            };
-        }
-
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="configurationSource"></param>
-        /// <returns></returns>
-        protected TypeRegistration GetInstrumentationProviderRegistration(IConfigurationSource configurationSource)
-        {
-            var instrumentationSection = InstrumentationConfigurationSection.GetSection(configurationSource);
-
-            return new TypeRegistration<IAuthorizationProviderInstrumentationProvider>(
-                () => new AuthorizationProviderInstrumentationProvider(
-                    Name,
-                    instrumentationSection.PerformanceCountersEnabled,
-                    instrumentationSection.EventLoggingEnabled,
-                    instrumentationSection.ApplicationInstanceName))
-            {
-                Name = Name,
-                Lifetime = TypeRegistrationLifetime.Transient
-            };
-        }
-
-
-        /// <summary>
-        /// Gets the creation expression used to produce a <see cref="TypeRegistration"/> during
-        /// <see cref="GetRegistrations"/>.
-        /// </summary>
-        /// <remarks>
-        /// This must be overridden by a subclass, but is not marked as abstract due to configuration serialization needs.
-        /// </remarks>
-        /// <returns>An Expression that creates a <see cref="IAuthorizationProvider"/></returns>
-        /// <exception cref="NotImplementedException" />
-        protected virtual Expression<Func<IAuthorizationProvider>> GetCreationExpression()
-        {
-            throw new NotImplementedException(Resources.ExceptionMustBeImplementedBySubclass);
         }
     }
 }

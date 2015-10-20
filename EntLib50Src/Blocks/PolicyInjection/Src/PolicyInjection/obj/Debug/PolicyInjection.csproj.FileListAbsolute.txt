@@ -7,3 +7,11 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\PolicyInjection\Src\Polic
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\PolicyInjection.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\PolicyInjection.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb

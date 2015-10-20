@@ -6,3 +6,11 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Validation.Integration.WinForms.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Validation.Integration.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Validation.Integration.WinForms.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb

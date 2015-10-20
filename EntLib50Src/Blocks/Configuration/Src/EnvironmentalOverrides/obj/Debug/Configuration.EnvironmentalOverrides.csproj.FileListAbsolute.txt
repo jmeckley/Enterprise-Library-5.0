@@ -7,3 +7,12 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Environ
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Configuration.EnvironmentalOverrides.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Configuration.EnvironmentalOverrides.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Configuration.EnvironmentalOverrides.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb

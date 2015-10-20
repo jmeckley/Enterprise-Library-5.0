@@ -6,3 +6,8 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Data.SqlCe.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Data.SqlCe.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Data.SqlCe.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\SqlCe\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.pdb

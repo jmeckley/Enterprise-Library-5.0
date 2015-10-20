@@ -8,3 +8,13 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\Security\obj
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Security.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Configuration.Manageability.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache

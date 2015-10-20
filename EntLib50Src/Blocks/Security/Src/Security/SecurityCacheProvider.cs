@@ -21,7 +21,10 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
 	/// </summary>
 	public abstract class SecurityCacheProvider : ISecurityCacheProvider
 	{
-        private ISecurityCacheProviderInstrumentationProvider instrumentationProvider;
+        /// <summary>
+        /// Gets the <see cref="ISecurityCacheProviderInstrumentationProvider"/> instance that defines the logical events used to instrument this Security Cache instance.
+		/// </summary>
+                protected ISecurityCacheProviderInstrumentationProvider InstrumentationProvider { get; private set; }
 
 
         /// <summary>
@@ -40,7 +43,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
 		{
             if (instrumentationProvider == null) throw new ArgumentNullException("instrumentationProvider");
 
-            this.instrumentationProvider = instrumentationProvider;
+            this.InstrumentationProvider = instrumentationProvider;
 		}
 
 		/// <summary>
@@ -162,13 +165,5 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
 		/// </param>
 		/// <returns>A cached Profile object</returns>
 		public abstract object GetProfile(IToken token);
-
-		/// <summary>
-        /// Gets the <see cref="SecurityCacheProviderInstrumentationProvider"/> instance that defines the logical events used to instrument this Security Cache instance.
-		/// </summary>
-        protected ISecurityCacheProviderInstrumentationProvider InstrumentationProvider
-		{
-			get { return this.instrumentationProvider; }
-		}
 	}
 }

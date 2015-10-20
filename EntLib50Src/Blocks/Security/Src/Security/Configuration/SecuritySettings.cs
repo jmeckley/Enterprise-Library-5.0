@@ -11,14 +11,10 @@
 
 using System.Configuration;
 using System.Linq;
-using System.Configuration.Provider;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ContainerModel;
 using System.Collections.Generic;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Design;
-using Microsoft.Practices.EnterpriseLibrary.Common.Instrumentation.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Security.Instrumentation;
-using Microsoft.Practices.EnterpriseLibrary.Security.Properties;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Configuration
 {

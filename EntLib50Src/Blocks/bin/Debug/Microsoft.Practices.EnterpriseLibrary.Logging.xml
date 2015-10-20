@@ -9774,11 +9774,6 @@
             Redeclaration that hides the <see cref="M:System.Object.Equals(System.Object)"/> method from IntelliSense.
             </summary>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.BinaryFormatterBuilder.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Builder class used to configure a <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Formatters.BinaryLogFormatter"/> instance.
-            </summary>
-        </member>
         <member name="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.BinaryFormatterBuilderExtensions">
             <summary>
             <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.FormatterBuilder"/> extensions to configure <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Formatters.BinaryLogFormatter"/> instances.
@@ -9872,9 +9867,6 @@
         <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.LoggingConfigurationExtension.#ctor(Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ILoggingConfigurationContd)">
             <summary/>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.LoggingConfigurationExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary/>
-        </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.LoggingConfigurationExtension.LoggingSettings">
             <summary/>
         </member>
@@ -9926,11 +9918,6 @@
         <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CustomFormatterBuilder.Equals(System.Object)">
             <summary>
             Redeclaration that hides the <see cref="M:System.Object.Equals(System.Object)"/> method from IntelliSense.
-            </summary>
-        </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CustomFormatterBuilder.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Builder class used to configure a custom <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Formatters.ILogFormatter"/> instance.
             </summary>
         </member>
         <member name="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ILoggingConfigurationCategoryOptions">
@@ -10902,11 +10889,6 @@
             Redeclaration that hides the <see cref="M:System.Object.Equals(System.Object)"/> method from IntelliSense.
             </summary>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.FormatterBuilder.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Entry point for configuring instances of <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Formatters.ILogFormatter"/>.
-            </summary>
-        </member>
         <member name="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ILoggingConfigurationSendToExtension">
             <summary>
             Allows access to the configuration classes used to configure <see cref="T:System.Diagnostics.TraceListener"/> instances.
@@ -11002,11 +10984,6 @@
             Adds a <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.TraceListenerData"/> instance to the logging settings and adds a <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.TraceListenerReferenceData"/> to the current Category Source.
             </summary>
             <param name="traceListenerData">The <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.TraceListenerData"/> that sould be added to configuration.</param>
-        </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.SendToTraceListenerExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Base Class for extension points that configure Trace Listeners within Category Sources.
-            </summary>
         </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.SendToTraceListenerExtension.LoggingSettings">
             <summary>
@@ -11192,13 +11169,6 @@
             <summary>
             Redeclaration that hides the <see cref="M:System.Object.Equals(System.Object)"/> method from IntelliSense.
             </summary>
-        </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.TextFormatterBuilder.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Builder class used to configure a <see cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Formatters.TextFormatter"/> instance.
-            </summary>
-            <seealso cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Formatters.TextFormatter"/>
-            <seealso cref="T:Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.TextFormatterData"/>
         </member>
         <member name="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.TextFormatterBuilderExtensions">
             <summary>

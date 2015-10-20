@@ -11,19 +11,17 @@
 
 using System;
 using System.Collections.Specialized;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Security.Configuration;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Tests
 {
-    [ConfigurationElementType(typeof(CustomSecurityCacheProviderData))]
     public class MockCustomSecurityCacheProvider
-        : MockCustomProviderBase, ISecurityCacheProvider
+        : ISecurityCacheProvider
     {
+        private readonly NameValueCollection _attributes;
+
         public MockCustomSecurityCacheProvider(NameValueCollection attributes)
-            : base(attributes)
         {
+            _attributes = attributes;
         }
 
         public IToken SaveIdentity(System.Security.Principal.IIdentity identity)

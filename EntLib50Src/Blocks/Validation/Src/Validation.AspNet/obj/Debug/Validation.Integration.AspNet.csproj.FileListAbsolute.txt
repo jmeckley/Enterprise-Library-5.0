@@ -6,3 +6,11 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Validation.Integration.AspNet.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Validation.Integration.AspNet.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Validation.Integration.AspNet.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Validation\Src\Validation.AspNet\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.pdb

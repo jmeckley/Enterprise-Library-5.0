@@ -747,13 +747,6 @@
             the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.IExceptionConfigurationForExceptionTypeOrPostHandling"/> and <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.IExceptionHandlerExtension"/> interfaces.
             </remarks>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ExceptionHandlerConfigurationExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Provides a base extensible class for handler configuration extensions.  This class eases the handling 
-            of the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.IExceptionConfigurationAddExceptionHandlers"/> that is the typical entry point
-            for most exception handler's fluent configuration interface.
-            </summary>
-        </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ExceptionHandlerConfigurationExtension.Context">
             <summary>
             The context for the extending handler in the fluent interface.  The extension interface

@@ -1,0 +1,17 @@
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Tests.dll.config
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\test.exe.config
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Tests.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Tests.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\obj\Debug\Security.Tests.VSTS.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Tests.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\obj\Debug\Security.Tests.VSTS.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Tests.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Tests\Security\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Tests.pdb

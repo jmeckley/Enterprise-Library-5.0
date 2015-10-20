@@ -11,6 +11,7 @@
 
 using System;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
+using Microsoft.Practices.ServiceLocation;
 
 namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
 {
@@ -32,7 +33,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
         /// <returns>The intercepted object (or possibly a raw instance if no policies apply).</returns>
         public static TObject Create<TObject>(params object[] args)
         {
-            using (var policyInjector = new PolicyInjector(EnterpriseLibraryContainer.Current))
+            using (var policyInjector = new PolicyInjector(ServiceLocator.Current))
             {
                 return policyInjector.Create<TObject>(args);
             }
@@ -50,7 +51,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
         public static TInterface Create<TObject, TInterface>(params object[] args)
             where TObject : TInterface
         {
-            using (var policyInjector = new PolicyInjector(EnterpriseLibraryContainer.Current))
+            using (var policyInjector = new PolicyInjector(ServiceLocator.Current))
             {
                 return policyInjector.Create<TObject, TInterface>(args);
             }
@@ -66,7 +67,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
         /// <returns>The intercepted object (or possibly a raw instance if no policies apply).</returns>
         public static object Create(Type typeToCreate, params object[] args)
         {
-            using (var policyInjector = new PolicyInjector(EnterpriseLibraryContainer.Current))
+            using (var policyInjector = new PolicyInjector(ServiceLocator.Current))
             {
                 return policyInjector.Create(typeToCreate, args);
             }
@@ -83,7 +84,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
         /// <returns>The intercepted object (or possibly a raw instance if no policies apply).</returns>
         public static object Create(Type typeToCreate, Type typeToReturn, params object[] args)
         {
-            using (var policyInjector = new PolicyInjector(EnterpriseLibraryContainer.Current))
+            using (var policyInjector = new PolicyInjector(ServiceLocator.Current))
             {
                 return policyInjector.Create(typeToCreate, typeToReturn, args);
             }
@@ -103,7 +104,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
         /// <returns>The proxy for the instance, or the raw object if no policies apply.</returns>
         public static TInterface Wrap<TInterface>(object instance)
         {
-            using (var policyInjector = new PolicyInjector(EnterpriseLibraryContainer.Current))
+            using (var policyInjector = new PolicyInjector(ServiceLocator.Current))
             {
                 return policyInjector.Wrap<TInterface>(instance);
             }
@@ -118,7 +119,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
         /// <returns>The proxy for the instance, or the raw object if no policies apply.</returns>
         public static object Wrap(Type typeToReturn, object instance)
         {
-            using (var policyInjector = new PolicyInjector(EnterpriseLibraryContainer.Current))
+            using (var policyInjector = new PolicyInjector(ServiceLocator.Current))
             {
                 return policyInjector.Wrap(typeToReturn, instance);
             }

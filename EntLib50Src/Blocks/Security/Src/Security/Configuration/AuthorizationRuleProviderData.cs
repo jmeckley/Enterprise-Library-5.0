@@ -19,20 +19,10 @@
 // LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
 // FITNESS FOR A PARTICULAR PURPOSE.
 //===============================================================================
-using System;
-using System.ComponentModel;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Collections.Generic;
+
 using System.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Design;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Unity;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ContainerModel;
-using Microsoft.Practices.EnterpriseLibrary.Security.Instrumentation;
-using Microsoft.Practices.EnterpriseLibrary.Security.Properties;
-using Container=Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ContainerModel.Container;
-
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Configuration
 {
@@ -84,24 +74,5 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security.Configuration
 				return (NamedElementCollection<AuthorizationRuleData>)base[rulesProperty];
 			}
 		}
-
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="configurationSource"></param>
-        /// <returns></returns>
-        public override IEnumerable<TypeRegistration> GetRegistrations(IConfigurationSource configurationSource)
-        {
-            yield return GetInstrumentationProviderRegistration(configurationSource);
-            
-            Dictionary<string, IAuthorizationRule> authorizationRules = Rules.ToDictionary(ruleData => ruleData.Name, ruleData => (IAuthorizationRule)ruleData);
-
-            yield return new TypeRegistration<IAuthorizationProvider>(() => new AuthorizationRuleProvider(authorizationRules, Container.Resolved<IAuthorizationProviderInstrumentationProvider>(Name)))
-                {
-                    Name = this.Name,
-                    Lifetime = TypeRegistrationLifetime.Transient
-                };
-        }
     }
 }

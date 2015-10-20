@@ -9,3 +9,14 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\M
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Data.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Manageability.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Oracle.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb

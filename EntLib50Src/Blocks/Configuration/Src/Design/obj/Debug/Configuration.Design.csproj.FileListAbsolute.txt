@@ -83,3 +83,35 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Design\
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Configuration.Design.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Configuration.Design.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\CustomAttributesEditor.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\FlagsEditor.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\TextEditDialog.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Aero.NormalColor.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Classic.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Generic.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Luna.HomeStead.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Luna.Metallic.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Luna.NormalColor.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\Toolkit\Themes\Royale.NormalColor.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Hosting\WaitDialog.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Resources\Brushes.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\MaskedPasswordTextBox.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ViewModel\BlockSpecifics\Logging\OverriddenTraceListenerCollectionEditor.baml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\CustomAttributesEditor.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\ElementCollectionEditor.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\FlagsEditor.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\TextEditDialog.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\TypeBrowser\SelectGacAssembliesDialog.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ComponentModel\Editors\TypeBrowser\TypeBrowser.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Hosting\ConfigurationEditorUI.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Hosting\SectionView.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Hosting\WaitDialog.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Controls\MaskedPasswordTextBox.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\ViewModel\BlockSpecifics\Logging\OverriddenTraceListenerCollectionEditor.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Wizard\WizardView.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime_MarkupCompile.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime_MarkupCompile.lref
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb

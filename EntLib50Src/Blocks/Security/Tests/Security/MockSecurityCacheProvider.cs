@@ -16,7 +16,6 @@ using Microsoft.Practices.EnterpriseLibrary.Security.Instrumentation;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Tests
 {
-	[ConfigurationElementType(typeof(MockSecurityCacheProviderData))]
 	public class MockSecurityCacheProvider : SecurityCacheProvider
 	{
         public MockSecurityCacheProvider(ISecurityCacheProviderInstrumentationProvider instrumentationProvider)

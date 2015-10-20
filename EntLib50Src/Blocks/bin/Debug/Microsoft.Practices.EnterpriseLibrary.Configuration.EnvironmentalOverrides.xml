@@ -396,7 +396,7 @@
         </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Properties.Resources.DontOverrideProperties">
             <summary>
-              Looks up a localized string similar to "Don&apos;t Override Properties".
+              Looks up a localized string similar to Don&apos;t Override Properties.
             </summary>
         </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Properties.Resources.DuplicateDeltaFilePath">

@@ -7,3 +7,12 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Caching.Database.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Caching.Database.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.Configuration.Manageability.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Caching.Database.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Database\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Database.pdb

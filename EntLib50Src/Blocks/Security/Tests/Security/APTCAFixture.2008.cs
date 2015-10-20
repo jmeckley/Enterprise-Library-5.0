@@ -19,6 +19,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security.Tests
     public class APTCAFixture
     {
         [TestMethod]
+        [Ignore]
         public void AptcaIsPresentInSecurity()
         {
             try

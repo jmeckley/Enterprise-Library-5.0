@@ -7,3 +7,12 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTrace
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Logging.Database.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Logging.Database.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.Manageability.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Logging.Database.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb

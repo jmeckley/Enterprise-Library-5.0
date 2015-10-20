@@ -39,7 +39,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection.CallHandlers
         /// the default values.</remarks>
         /// <param name="category">Performance counter category name.</param>
         /// <param name="instanceName">Performance counter instance name. This may contain substitution
-        /// tokens; see <see cref="MethodInvocationFormatter"/> for the list of tokens.</param>
+        /// tokens; see <see cref="Microsoft.Practices.EnterpriseLibrary.Common.MethodInvocationFormatter"/> for the list of tokens.</param>
         public PerformanceCounterCallHandlerAttribute(string category, string instanceName)
         {
             this.categoryName = category;
@@ -70,7 +70,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection.CallHandlers
 
         /// <summary>
         /// Counter instance name. This may include replacement
-        /// tokens. See the <see cref="MethodInvocationFormatter"/> class for a list of the tokens.
+        /// tokens. See the <see cref="Microsoft.Practices.EnterpriseLibrary.Common.MethodInvocationFormatter"/> class for a list of the tokens.
         /// </summary>
         /// <value>instance name.</value>
         public string InstanceName

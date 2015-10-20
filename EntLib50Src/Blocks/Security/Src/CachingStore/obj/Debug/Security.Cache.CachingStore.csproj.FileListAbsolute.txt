@@ -7,3 +7,12 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\CachingStore
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Security.Cache.CachingStore.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Security.Cache.CachingStore.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Security.Cache.CachingStore.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Security\Src\CachingStore\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.pdb

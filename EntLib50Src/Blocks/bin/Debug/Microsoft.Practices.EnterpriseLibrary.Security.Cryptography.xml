@@ -875,11 +875,6 @@
             <param name="context">The current caching configuration's fluent interface builder.<br/>
             This interface must implement <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.IConfigureCryptographyExtension"/>.</param>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ConfigureCryptographyExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Base class for fluent interface builders that extend the cryptography configuration fluent interface.
-            </summary>
-        </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ConfigureCryptographyExtension.CryptographySettings">
             <summary>
             Returns the <see cref="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ConfigureCryptographyExtension.CryptographySettings"/> instance that is currently being build up.

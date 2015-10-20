@@ -10,8 +10,6 @@
 //===============================================================================
 
 using System.Security.Principal;
-using Microsoft.Practices.EnterpriseLibrary.Common.Instrumentation;
-using Microsoft.Practices.EnterpriseLibrary.Security.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Security.Instrumentation;
 using System;
 
@@ -22,8 +20,10 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
 	/// </summary>
 	public abstract class AuthorizationProvider : IAuthorizationProvider
 	{
-        IAuthorizationProviderInstrumentationProvider instrumentationProvider;
-
+        /// <summary>
+        /// Gets the <see cref="IAuthorizationProviderInstrumentationProvider"/> instance that defines the logical events used to instrument this Authorization Provider instance.
+        /// </summary>
+        protected IAuthorizationProviderInstrumentationProvider InstrumentationProvider { get; private set; }
 
         /// <summary>
         /// Initializes a new instance of <see cref="AuthorizationProvider"/>.
@@ -33,7 +33,6 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
         {
         }
 
-
 		/// <summary>
         /// Initializes a new instance of <see cref="AuthorizationProvider"/>.
 		/// </summary>
@@ -42,7 +41,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
 		{
             if (instrumentationProvider == null) throw new ArgumentNullException("instrumentationProvider");
 
-            this.instrumentationProvider = instrumentationProvider;
+            InstrumentationProvider = instrumentationProvider;
 		}
 
         /// <summary>
@@ -52,13 +51,5 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security
         /// <param name="context">Must be a string that is the name of the rule to evaluate.</param>
         /// <returns><c>true</c> if the authority is authorized, otherwise <c>false</c>.</returns>
 		public abstract bool Authorize(IPrincipal principal, string context);
-
-        /// <summary>
-        /// Gets the <see cref="IAuthorizationProviderInstrumentationProvider"/> instance that defines the logical events used to instrument this Authorization Provider instance.
-        /// </summary>
-		protected IAuthorizationProviderInstrumentationProvider InstrumentationProvider
-		{
-			get { return this.instrumentationProvider; }
-		}
 	}
 }

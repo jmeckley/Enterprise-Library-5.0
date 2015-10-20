@@ -10,3 +10,15 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistribut
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Logging.MsmqDistributor.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\MsmqDistributor.exe
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\MsmqDistributor.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\MsmqDistributor.exe.config
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\MsmqDistributor.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\MsmqDistributor.exe
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\MsmqDistributor.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\App.config
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\MsmqDistributor.exe
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\MsmqDistributor.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Logging.MsmqDistributor.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.DistributorService.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.ProjectInstaller.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Logging\Src\MsmqDistributor\obj\Debug\Logging.MsmqDistributor.csproj.GenerateResource.Cache

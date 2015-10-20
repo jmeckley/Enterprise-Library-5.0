@@ -8,3 +8,13 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\D
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Caching.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Manageability.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Caching.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Caching\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb

@@ -39,7 +39,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.Security.Tests
 		{
 		}
 
-        protected override System.Linq.Expressions.Expression<System.Func<IAuthorizationProvider>> GetCreationExpression()
+        protected  System.Linq.Expressions.Expression<System.Func<IAuthorizationProvider>> GetCreationExpression()
         {
             return () => new MockAuthorizationProvider2();
         }

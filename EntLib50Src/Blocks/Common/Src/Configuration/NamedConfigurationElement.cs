@@ -21,7 +21,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.Common.Configuration
 	/// Represents a named <see cref="ConfigurationElement"/> where the name is the key to a collection.
 	/// </summary>
 	/// <remarks>
-	/// This class is used in conjunction with a <see cref="Configuration.NamedElementCollection&lt;T&gt;"/>.
+	/// This class is used in conjunction with a <see cref="NamedElementCollection{T}"/>.
 	/// </remarks>
     
     [NameProperty("Name")]

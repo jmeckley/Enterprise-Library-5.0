@@ -10,13 +10,10 @@
 //===============================================================================
 
 using System;
-using System.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ContainerModel;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using Microsoft.Practices.EnterpriseLibrary.Security.Properties;
-using Microsoft.Practices.EnterpriseLibrary.Common.Instrumentation.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Security.Instrumentation;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Configuration

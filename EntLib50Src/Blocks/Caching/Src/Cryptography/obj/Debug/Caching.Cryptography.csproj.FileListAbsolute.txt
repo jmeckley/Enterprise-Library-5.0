@@ -7,3 +7,12 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Caching.Cryptography.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.xml
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Caching.Cryptography.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.Configuration.DesignResources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.Configuration.Manageability.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Caching.Cryptography.csproj.GenerateResource.Cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Caching\Src\Cryptography\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.pdb

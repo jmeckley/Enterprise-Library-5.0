@@ -1882,11 +1882,6 @@
             </summary>
             <param name="backingStore">The <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.CacheStorageData"/> that should be added to configuration.</param>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheManagerExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Base class for fluent interface builders that extend the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ICachingConfigurationCacheManager"/> interface.
-            </summary>
-        </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheManagerExtension.CacheManager">
             <summary>
             Returns the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.CacheManagerData"/> instance that corresponds to the <see cref="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheManagerExtension.CacheManager"/> being configured.
@@ -1939,11 +1934,6 @@
             <param name="context">The current caching configuration's fluent interface builder.<br/>
             This interface must implement <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.ICachingConfigurationExtension"/>.</param>
         </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheManagerSettingsExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Base class for fluent interface builders that extend the caching configuration fluent interface.
-            </summary>
-        </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheManagerSettingsExtension.CachingSettings">
             <summary>
             Returns the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.CacheManagerSettings"/> instance that is currently being build up.
@@ -1978,11 +1968,6 @@
             Adds a <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.StorageEncryptionProviderData"/> to the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.CacheManagerSettings"/> as well as adds a reference to the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.IBackingStore"/> instance currently being configured.
             </summary>
             <param name="storageEncyption">The <see cref="T:Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.StorageEncryptionProviderData"/> that should be added to configuration.</param>
-        </member>
-        <member name="M:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheStorageExtension.Microsoft#Practices#EnterpriseLibrary#Common#IFluentInterface#GetType">
-            <summary>
-            Base class for fluent interface builders that extend the <see cref="T:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.IBackingStoreEncryptItemsUsing"/> interface.
-            </summary>
         </member>
         <member name="P:Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Fluent.CacheStorageExtension.CacheStorage">
             <summary>

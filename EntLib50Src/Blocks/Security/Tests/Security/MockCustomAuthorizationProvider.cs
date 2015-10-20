@@ -10,19 +10,17 @@
 //===============================================================================
 
 using System.Collections.Specialized;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Security.Configuration;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Security.Tests
 {
-    [ConfigurationElementType(typeof(CustomAuthorizationProviderData))]
     public class MockCustomAuthorizationProvider
-        : MockCustomProviderBase, IAuthorizationProvider
+        : IAuthorizationProvider
     {
+        private readonly NameValueCollection _attributes;
+
         public MockCustomAuthorizationProvider(NameValueCollection attributes)
-            : base(attributes)
         {
+            _attributes = attributes;
         }
 
         public bool Authorize(System.Security.Principal.IPrincipal principal, string context)

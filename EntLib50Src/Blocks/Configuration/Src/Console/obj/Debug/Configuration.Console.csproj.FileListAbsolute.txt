@@ -11,3 +11,9 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Configuration.Console.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.exe
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\bin\Debug\EntLibConfig.exe.config
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.exe
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\Configuration.Console.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\App.g.cs
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\Console\obj\Debug\EntLibConfig_MarkupCompile.cache

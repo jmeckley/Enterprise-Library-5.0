@@ -10,14 +10,13 @@
 //===============================================================================
 
 using System;
-using System.Collections.Generic;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
-using Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Unity;
 using Microsoft.Practices.EnterpriseLibrary.Common.Utility;
 using Microsoft.Practices.ServiceLocation;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.InterceptionExtension;
 using Microsoft.Practices.Unity.Utility;
+using Guard = Microsoft.Practices.EnterpriseLibrary.Common.Utility.Guard;
 
 namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
 {
@@ -99,7 +98,7 @@ namespace Microsoft.Practices.EnterpriseLibrary.PolicyInjection
 
         private static IServiceLocator CreateServiceLocator(IConfigurationSource configurationSource)
         {
-            return EnterpriseLibraryContainer.CreateDefaultContainer(configurationSource);
+            return ServiceLocator.CreateDefaultContainer(configurationSource);
         }
 
         /// <summary>

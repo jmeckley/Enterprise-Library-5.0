@@ -16,14 +16,7 @@ using Microsoft.Practices.EnterpriseLibrary.Security.Configuration;
 
 [assembly: AssemblyTitle("Enterprise Library Security Application Block")]
 [assembly: AssemblyDescription("Enterprise Library Security Application Block")]
-[assembly: AssemblyVersion("5.0.505.0")]
+[assembly: AssemblyVersion("6.0.0.0")]
 [assembly: AllowPartiallyTrustedCallers]
 [assembly: SecurityTransparent]
-
-
-[assembly: HandlesSection(SecuritySettings.SectionName)]
-[assembly: AddApplicationBlockCommand(
-                SecuritySettings.SectionName,
-                typeof(SecuritySettings),
-                TitleResourceName = "AddSecuritySettings",
-                TitleResourceType = typeof(DesignResources))]
+[assembly: SecurityRules(SecurityRuleSet.Level1)]

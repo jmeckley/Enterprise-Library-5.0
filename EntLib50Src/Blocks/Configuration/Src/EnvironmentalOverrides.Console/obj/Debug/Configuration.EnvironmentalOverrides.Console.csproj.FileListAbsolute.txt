@@ -5,3 +5,8 @@ D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\Environ
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Configuration.EnvironmentalOverrides.Console.csproj.GenerateResource.Cache
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.exe
 D:\Workspace\Enterprise Library 5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.exe
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.pdb
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Configuration.EnvironmentalOverrides.Console.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Console.Properties.Resources.resources
+C:\Users\jmeckley\Documents\GitHub\Enterprise-Library-5.0\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Configuration.EnvironmentalOverrides.Console.csproj.GenerateResource.Cache
